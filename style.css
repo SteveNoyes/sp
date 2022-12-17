@@ -4,19 +4,20 @@
  */
 
 /* Colors */
+
 :root {
 /* Primary */
 --very-dark-magenta: hsl(300, 43%, 22%);
 --soft-pink: hsl(333, 80%, 67%);
+
 /* Neutral */
 --dark-grayish-magenta: hsl(303, 10%, 53%);
 --light-grayish-magenta: hsl(300, 24%, 96%);
 --white: hsl(0, 0%, 100%);
 }
 
+/* font-weights: 400, 500, 700 */
 body {
   font-size: 15px;
+  font-family: 'League Spartan', sans-serif, monospace;
 }
-
-/* - Family: [League Spartan](https://fonts.google.com/specimen/League+Spartan)
-- Weights: 400, 500, 700 */
