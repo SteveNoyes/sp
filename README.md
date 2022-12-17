@@ -27,17 +27,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/sp)
+- Live Site URL: [GitHub Pages](https://stevenoyes.github.io/sp/)
 
 ## My process
 
 ### Built with
 
-- HTML5 markup
+- HTML5
 - CSS  
-- Flexbox
-- Vanilla JavaScript
 - Mobile-first workflow
 
 ### Featured Section
@@ -55,10 +53,6 @@ Users should be able to:
 ### Useful resources
 
 - [How to Center a Div](https://blog.devgenius.io/3-ways-to-center-a-div-with-css-3df9e66dbd42) - This helped me for XYZ reason. I really liked this pattern and will use it going forward. 
-
-- [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - Box shadow for button and div sections. 
-
-- [text spacing](https://www.w3schools.com/css/css_text_spacing.asp) - Spacing for the top header was made easier with this.
 
 ## Author
 
